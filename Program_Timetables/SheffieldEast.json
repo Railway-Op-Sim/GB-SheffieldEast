@@ -1,0 +1,28 @@
+{
+  "startTime":"06:00",
+  "services":[
+    {
+      "ref":"1L31",
+      "description":"Sheffield to Lincoln",
+      "startSpeed":"",
+      "maxSpeed":"",
+      "mass":"",
+      "maxBrake":"",
+      "power":"",
+      "increment":"1",
+      "events":[
+        "23:52;Snt;28-23 29-23",
+        "23:54;23:54;Darnall",
+        "23:59;00:00;Woodhouse",
+        "00:07;00:07;Kiveton Bridge",
+        "00:10;00:10;Kiveton Park",
+        "00:15;00:15;Shireoaks",
+        "00:20;00:20;Worksop",
+        "00:21;Fer;134;23"
+      ],
+      "times":[
+        //Add times here from spreadsheet.
+      ]
+    }
+  ]
+}
