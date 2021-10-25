@@ -1,14 +1,14 @@
 {
-  "startTime":"06:00",
+  "startTime":"06:21",
   "services":[
     {
       "ref":"1L31",
       "description":"Sheffield to Lincoln",
-      "startSpeed":"",
-      "maxSpeed":"",
-      "mass":"",
-      "maxBrake":"",
-      "power":"",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
       "increment":"1",
       "events":[
         "23:52;Snt;28-23 29-23",
@@ -18,10 +18,107 @@
         "00:10;00:10;Kiveton Park",
         "00:15;00:15;Shireoaks",
         "00:20;00:20;Worksop",
-        "00:21;Fer;134;23"
+        "00:21;Fer;134-23"
       ],
       "times":[
-        //Add times here from spreadsheet.
+        {"time":"06:47","ref":"1L31","description":"Sheffield to Lincoln Central"},
+        {"time":"07:09","ref":"2L90","description":"Barnsley to Gainsborough Central"},
+        {"time":"08:06","ref":"2P13","description":"Sheffield to Gainsborough Central"},
+        {"time":"09:04","ref":"2P15","description":"Sheffield to Lincoln Central"},
+        {"time":"10:05","ref":"2P17","description":"Sheffield to Lincoln Central"},
+        {"time":"11:05","ref":"2P19","description":"Sheffield to Lincoln Central"},
+        {"time":"12:04","ref":"2P21","description":"Sheffield to Lincoln Central"},
+        {"time":"13:05","ref":"2P23","description":"Sheffield to Lincoln Central"},
+        {"time":"14:05","ref":"2P25","description":"Sheffield to Lincoln Central"},
+        {"time":"15:05","ref":"2P27","description":"Sheffield to Lincoln Central"},
+        {"time":"16:05","ref":"2P29","description":"Sheffield to Lincoln Central"},
+        {"time":"16:49","ref":"1L69","description":"Sheffield to Lincoln Central"},
+        {"time":"17:05","ref":"2P31","description":"Sheffield to Gainsborough Central"},
+        {"time":"17:48","ref":"1L73","description":"Sheffield to Lincoln Central"},
+        {"time":"18:05","ref":"2P33","description":"Sheffield to Gainsborough Central"},
+        {"time":"18:51","ref":"1L77","description":"Sheffield to Lincoln Central"},
+        {"time":"19:49","ref":"1L81","description":"Sheffield to Lincoln Central"},
+        {"time":"21:03","ref":"2P37","description":"Sheffield to Lincoln Central"},
+        {"time":"21:54","ref":"1L89","description":"Sheffield to Retford"}
+      ]
+    },
+    {
+      "ref":"1Y97",
+      "description":"Lincoln Central to Sheffield",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"1",
+      "events": [
+        "23:38;Snt;134-24 133-24",
+        "23:39;23:40;Worksop",
+        "23:44;23:44;Shireoaks",
+        "23:49;23:49;Kiveton Park",
+        "23:52;23:53;Kiveton Bridge",
+        "00:00;00:00;Woodhouse",
+        "00:05;00:05;Darnall",
+        "00:07;Fer;28-24"
+      ],
+      "times": [
+        {"time":"06:45","ref":"1Y97","description":"Retford to Nottingham"},
+        {"time":"07:30","ref":"1L36","description":"Retford to Sheffield"},
+        {"time":"07:51","ref":"2P62","description":"Lincoln Central to Sheffield"},
+        {"time":"08:28","ref":"1L40","description":"Lincoln Central to Sheffield"},
+        {"time":"09:04","ref":"2P64","description":"Gainsborough Central to Sheffield"},
+        {"time":"10:04","ref":"2P66","description":"Gainsborough Central to Sheffield"},
+        {"time":"10:41","ref":"1L48","description":"Lincoln Central to Sheffield"},
+        {"time":"11:40","ref":"2P68","description":"Lincoln Central to Sheffield"},
+        {"time":"12:40","ref":"2P70","description":"Lincoln Central to Sheffield"},
+        {"time":"13:38","ref":"2P72","description":"Lincoln Central to Sheffield"},
+        {"time":"14:41","ref":"2P74","description":"Lincoln Central to Sheffield"},
+        {"time":"15:40","ref":"2P76","description":"Lincoln Central to Sheffield"},
+        {"time":"16:40","ref":"2P78","description":"Lincoln Central to Sheffield"},
+        {"time":"17:40","ref":"2P80","description":"Lincoln Central to Sheffield"},
+        {"time":"18:43","ref":"2P82","description":"Lincoln Central to Sheffield"},
+        {"time":"19:13","ref":"2P84","description":"Gainsborough Central to Sheffield"},
+        {"time":"19:32","ref":"1L84","description":"Lincoln Central to Sheffield"},
+        {"time":"20:00","ref":"2P86","description":"Gainsborough Central to Sheffield"},
+        {"time":"21:25","ref":"2P88","description":"Lincoln Central to Sheffield"},
+        {"time":"22:36","ref":"2P90","description":"Lincoln Central to Sheffield"}
+      ]
+    },
+    {
+      "ref":"2W01",
+      "description":"Nottingham to Worksop",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"2",
+      "events": [
+        "23:51;Snt;105-37 105-36",
+        "23:54;Worksop",
+        "23:55;cdt",
+        "23:56;Fns;2D01"
+      ],
+      "times": [
+        "06:41","07:39","08:39","09:39","10:39","11:39","12:39","13:39","14:39","15:39","16:39","17:39","18:41","19:44","20:40","21:39"
+      ]
+    },
+    {
+      "ref":"2D01",
+      "description":"Worksop to Nottingham",
+      "startSpeed":"0",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"2",
+      "events": [
+        "23:56;Sns;2W01",
+        "00:00;Worksop",
+        "00:03;Fer;106-37"
+      ],
+      "times": [
+        "06:41","07:39","08:39","09:39","10:39","11:39","12:39","13:39","14:39","15:39","16:39","17:39","18:41","19:44","20:40","21:39"
       ]
     }
   ]
