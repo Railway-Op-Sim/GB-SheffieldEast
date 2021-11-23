@@ -126,9 +126,9 @@
       "description":"FRGT Treeton Jn NORTH",
       "startSpeed":"80",
       "maxSpeed":"121",
-      "mass":"76",
+      "mass":"127",
       "maxBrake":"28",
-      "power":"425",
+      "power":"2460",
       "increment":"2",
       "events": [
         "23:47;Snt;55-73 55-72",
@@ -179,7 +179,6 @@
         {"time":"07:55","ref":"5O13","description":"Doncaster West Yard to Eastleigh Works Gbrf"},
         {"time":"08:25","ref":"6M85","description":"Thrislington Gbrf to Toton North Yard"},
         {"time":"09:08","ref":"7X18","description":"Doncaster Up Decoy to Toton North Yard"},
-        {"time":"09:10","ref":"7M18","description":"Doncaster Up Decoy to Toton North Yard"},
         {"time":"09:56","ref":"6M61","description":"Doncaster Down Decoy Gbrf to Ratcliffe Ps Gbrf"},
         {"time":"11:26","ref":"6J27","description":"Barnetby to Chesterfield Down Sidings"},
         {"time":"11:35","ref":"6X01","description":"Scunthorpe Trent T.C. to Eastleigh East Yard"},
@@ -191,13 +190,10 @@
         {"time":"13:36","ref":"0W65","description":"Belmont Down Yard to Toton T.M.D."},
         {"time":"14:55","ref":"6E87","description":"Ratcliffe Ps Gbrf to Immingham H.I.T. (Gbrf)"},
         {"time":"17:04","ref":"6K90","description":"Scunthorpe B.S.C.(Ent.C.) to Margam T.C."},
-        {"time":"17:04","ref":"6K92","description":"Scunthorpe B.S.C.(Ent.C.) to East Usk Branch Birdport"},
-        {"time":"17:04","ref":"6J96","description":"Redcar B.S.C. Ore T. to Margam T.C."},
         {"time":"18:21","ref":"6L90","description":"Masborough F.D. to Cardiff Tidal T.C."},
         {"time":"19:16","ref":"6L93","description":"Leeds F.L.T. to Southampton M.C.T."},
         {"time":"19:25","ref":"0X11","description":"Doncaster Robert Rds Shed to Derby R.T.C.(Network Rail)"},
         {"time":"19:35","ref":"4M65","description":"Hedon Road Sidings to Trafford Pk Euro Tml Gbrf"},
-        {"time":"19:35","ref":"4M65","description":"Immingham Mineral Quay Gbr to Trafford Pk Euro Tml Gbrf"},
         {"time":"19:52","ref":"4O34","description":"Doncaster Iport Gbrf to Southampton W Docks (Gbrf)"},
         {"time":"20:09","ref":"4W05","description":"Masborough F.D. to Soton W Docks Berth 109"},
         {"time":"20:13","ref":"6M99","description":"Rylstone Tilcon (Gbrf) to Wellingborough Up Tc Gbrf"},
@@ -205,6 +201,23 @@
         {"time":"21:51","ref":"4W02","description":"Scunthorpe B.S.C.(Ent.C.) to Margam T.C."},
         {"time":"22:12","ref":"6M10","description":"Tees N.Y. to Margam T.C."},
         {"time":"22:52","ref":"6M13","description":"Tees N.Y. to Margam T.C."}
+      ]
+    },
+    {
+      "ref":"6Y05",
+      "description":"Tunstead Sdgs to West Burton Ps (Fhh)",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"4",
+      "events": [
+        "06:24;Snt;28-23 29-23",
+        "06:55;Fer;134-23"
+      ],
+      "times": [
+        "00:00","04:50"
       ]
     }
   ]
