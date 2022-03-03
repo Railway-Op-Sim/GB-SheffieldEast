@@ -132,7 +132,7 @@
       "increment":"2",
       "events": [
         "23:47;Snt;55-73 55-72",
-        "23:58;Fer;55-12"
+        "00:02;Fer;55-12"
       ],
       "times": [
         {"time":"07:04","ref":"6E99","description":"Wellingborough Up Tc Gbrf to Rylstone Tilcon (Gbrf)"},
@@ -171,7 +171,7 @@
       "increment":"2",
       "events": [
         "00:02;Snt;56-12 56-13",
-        "00:13;Fer;56-73"
+        "00:17;Fer;56-73"
       ],
       "times": [
         {"time":"07:16","ref":"6I06","description":"Leeds F.L.T. to Southampton M.C.T."},
