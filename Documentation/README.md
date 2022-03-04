@@ -1,26 +1,19 @@
-# Project Title
+# Sheffield East
 
-*About the project goes here*
+This project covers the main route between Sheffield and Worksop, and the services that run along it. Also included is the Midland Main Line, popular for many north-south freight services. The line out to Stocksbridge is also mapped, but no services run over this in the included timetable.
 
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+I hope you enjoy!
 
 ## Simulation
 
-*This section describes the timetable*
+The timetable contains all of the passenger services between Sheffield and Worksop, as well as Nottingham services which terminate at Worksop.
 
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
+A large number of freight services are included, especially on the Midland Main Line, however, freight services are not included to Tinsley, Stocksbridge and Maltby.
+
+A few passenger services run up the Midland Main Line from Chesterfield and up via Woodhouse into Sheffield, these services are included also. Additionally, there are 5 services per day that leave Sheffield towards Woodburn Junction where they turn around to use a different plaform at Sheffield.
+
+The included timetable has multiple start points, however for the best experience, I recommend starting from 06:00, as the morning timetable is far more varied and interesting.
 
 ## Development
 
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+This project is open for contribution on the ROS GitHub Organisation. If you would like to contribute, please get in touch on the ROS Discord server.

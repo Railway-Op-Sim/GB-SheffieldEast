@@ -13,7 +13,7 @@ A small route covering the line from Sheffield to Worksop, including branches to
 | Speed Limits | :heavy_check_mark: |
 | Distances | :heavy_check_mark: |
 | Timetable | :heavy_check_mark: |
-| Documentation | :x: |
+| Documentation | :heavy_check_mark: |
 
 
 ## Data Sources
