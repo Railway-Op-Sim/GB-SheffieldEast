@@ -1,0 +1,299 @@
+{
+  "startTime":"06:00",
+  "services":[
+    {
+      "ref":"1L31",
+      "description":"Sheffield to Lincoln",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"1",
+      "events":[
+        "23:52;Snt;28-23 29-23",
+        "23:54;23:54;Darnall",
+        "23:59;00:00;Woodhouse",
+        "00:07;00:07;Kiveton Bridge",
+        "00:10;00:10;Kiveton Park",
+        "00:15;00:15;Shireoaks",
+        "00:20;00:20;Worksop",
+        "00:21;Fer;134-23"
+      ],
+      "times":[
+        {"time":"06:47","ref":"1L31","description":"Sheffield to Lincoln Central"},
+        {"time":"07:09","ref":"2L90","description":"Barnsley to Gainsborough Central"},
+        {"time":"08:06","ref":"2P13","description":"Sheffield to Gainsborough Central"},
+        {"time":"09:04","ref":"2P15","description":"Sheffield to Lincoln Central"},
+        {"time":"10:05","ref":"2P17","description":"Sheffield to Lincoln Central"},
+        {"time":"11:05","ref":"2P19","description":"Sheffield to Lincoln Central"},
+        {"time":"12:04","ref":"2P21","description":"Sheffield to Lincoln Central"},
+        {"time":"13:05","ref":"2P23","description":"Sheffield to Lincoln Central"},
+        {"time":"14:05","ref":"2P25","description":"Sheffield to Lincoln Central"},
+        {"time":"15:05","ref":"2P27","description":"Sheffield to Lincoln Central"},
+        {"time":"16:05","ref":"2P29","description":"Sheffield to Lincoln Central"},
+        {"time":"16:49","ref":"1L69","description":"Sheffield to Lincoln Central"},
+        {"time":"17:05","ref":"2P31","description":"Sheffield to Gainsborough Central"},
+        {"time":"17:48","ref":"1L73","description":"Sheffield to Lincoln Central"},
+        {"time":"18:05","ref":"2P33","description":"Sheffield to Gainsborough Central"},
+        {"time":"18:51","ref":"1L77","description":"Sheffield to Lincoln Central"},
+        {"time":"19:49","ref":"1L81","description":"Sheffield to Lincoln Central"},
+        {"time":"21:03","ref":"2P37","description":"Sheffield to Lincoln Central"},
+        {"time":"21:54","ref":"1L89","description":"Sheffield to Retford"}
+      ]
+    },
+    {
+      "ref":"1Y97",
+      "description":"Lincoln Central to Sheffield",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"1",
+      "events": [
+        "23:38;Snt;134-24 133-24",
+        "23:39;23:40;Worksop",
+        "23:44;23:44;Shireoaks",
+        "23:49;23:49;Kiveton Park",
+        "23:52;23:53;Kiveton Bridge",
+        "00:00;00:00;Woodhouse",
+        "00:05;00:05;Darnall",
+        "00:07;Fer;28-24"
+      ],
+      "times": [
+        {"time":"06:45","ref":"1Y97","description":"Retford to Nottingham"},
+        {"time":"07:30","ref":"1L36","description":"Retford to Sheffield"},
+        {"time":"07:51","ref":"2P62","description":"Lincoln Central to Sheffield"},
+        {"time":"08:28","ref":"1L40","description":"Lincoln Central to Sheffield"},
+        {"time":"09:04","ref":"2P64","description":"Gainsborough Central to Sheffield"},
+        {"time":"10:04","ref":"2P66","description":"Gainsborough Central to Sheffield"},
+        {"time":"10:41","ref":"1L48","description":"Lincoln Central to Sheffield"},
+        {"time":"11:40","ref":"2P68","description":"Lincoln Central to Sheffield"},
+        {"time":"12:40","ref":"2P70","description":"Lincoln Central to Sheffield"},
+        {"time":"13:38","ref":"2P72","description":"Lincoln Central to Sheffield"},
+        {"time":"14:41","ref":"2P74","description":"Lincoln Central to Sheffield"},
+        {"time":"15:40","ref":"2P76","description":"Lincoln Central to Sheffield"},
+        {"time":"16:40","ref":"2P78","description":"Lincoln Central to Sheffield"},
+        {"time":"17:40","ref":"2P80","description":"Lincoln Central to Sheffield"},
+        {"time":"18:43","ref":"2P82","description":"Lincoln Central to Sheffield"},
+        {"time":"19:13","ref":"2P84","description":"Gainsborough Central to Sheffield"},
+        {"time":"19:32","ref":"1L84","description":"Lincoln Central to Sheffield"},
+        {"time":"20:00","ref":"2P86","description":"Gainsborough Central to Sheffield"},
+        {"time":"21:25","ref":"2P88","description":"Lincoln Central to Sheffield"},
+        {"time":"22:36","ref":"2P90","description":"Lincoln Central to Sheffield"}
+      ]
+    },
+    {
+      "ref":"2W01",
+      "description":"Nottingham to Worksop",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"2",
+      "events": [
+        "23:51;Snt;105-37 105-36",
+        "23:54;Worksop",
+        "23:55;cdt",
+        "23:56;Fns;2D01"
+      ],
+      "times": [
+        "06:41","07:39","08:39","09:39","10:39","11:39","12:39","13:39","14:39","15:39","16:39","17:39","18:41","19:44","20:40","21:39"
+      ]
+    },
+    {
+      "ref":"2D01",
+      "description":"Worksop to Nottingham",
+      "startSpeed":"0",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"2",
+      "events": [
+        "23:56;Sns;2W01",
+        "00:00;Worksop",
+        "00:03;Fer;106-37"
+      ],
+      "times": [
+        "06:41","07:39","08:39","09:39","10:39","11:39","12:39","13:39","14:39","15:39","16:39","17:39","18:41","19:44","20:40","21:39"
+      ]
+    },
+    {
+      "ref":"6E99",
+      "description":"FRGT Treeton Jn NORTH",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"127",
+      "maxBrake":"28",
+      "power":"2460",
+      "increment":"2",
+      "events": [
+        "23:47;Snt;55-73 55-72",
+        "00:02;Fer;55-12"
+      ],
+      "times": [
+        {"time":"07:04","ref":"6E99","description":"Wellingborough Up Tc Gbrf to Rylstone Tilcon (Gbrf)"},
+        {"time":"08:23","ref":"4E79","description":"Ratcliffe Ps Gbrf to Doncaster Down Decoy Gbrf"},
+        {"time":"09:36","ref":"0W02","description":"Toton T.M.D. to Belmont Down Yard"},
+        {"time":"09:43","ref":"4U27","description":"Southampton M.C.T. to Leeds F.L.T."},
+        {"time":"10:13","ref":"4E84","description":"Seaforth C.T. (Gbrf) to Doncaster Iport Gbrf"},
+        {"time":"11:09","ref":"612J","description":"Mountsorrel Sdgs to Tyne S.S."},
+        {"time":"11:31","ref":"6E42","description":"Cliffe Hill Stud Farm Gbrf to Doncaster Up Decoy"},
+        {"time":"13:21","ref":"4E34","description":"Southampton W Docks (Gbrf) to Doncaster Iport Gbrf"},
+        {"time":"14:07","ref":"7E20","description":"Toton North Yard to Doncaster Up Decoy"},
+        {"time":"14:55","ref":"6E87","description":"Ratcliffe Ps Gbrf to Immingham H.I.T. (Gbrf)"},
+        {"time":"15:11","ref":"6K47","description":"Sinfin Sdgs to Grangemouth Ineos"},
+        {"time":"15:43","ref":"4U60","description":"Daventry Drs (Tesco) to Doncaster Iport"},
+        {"time":"16:05","ref":"4E37","description":"Southampton W Docks (Gbrf) to Masborough N&W Gbrf"},
+        {"time":"16:15","ref":"4E27","description":"Hotchley Hill (East Leake) to Middlesbrough Dawson Gbrf"},
+        {"time":"16:30","ref":"6E52","description":"East Mids Gateway Tml Dbc to Hedon Road Sidings"},
+        {"time":"16:45","ref":"4U02","description":"Soton W Docks Berth 109 to Masborough F.D."},
+        {"time":"17:25","ref":"0W23","description":"Wolverhampton Steel Term to Immingham Sorting Sidings"},
+        {"time":"17:38","ref":"0W54","description":"Didcot T.C. to Knottingley T.M.D."},
+        {"time":"18:53","ref":"4E23","description":"East Mids Gateway Tml Dbc to Immingham Mineral Quay"},
+        {"time":"18:58","ref":"4E24","description":"East Mids Gateway Tml Dbc to Hull Coal Terminal"},
+        {"time":"19:25","ref":"6E88","description":"Toton North Yard to Thrislington Gbrf"},
+        {"time":"20:51","ref":"4V22","description":"East Mids Gateway Tl (Fl) to Felixstowe North F.L.T."},
+        {"time":"22:27","ref":"6L80","description":"Burton Ot W Yd Maurice H to Redcar B.S.C. (Min.T.)"}
+      ]
+    },
+    {
+      "ref":"6E91",
+      "description":"FRGT Treeton Jn SOUTH",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"2",
+      "events": [
+        "00:02;Snt;56-12 56-13",
+        "00:17;Fer;56-73"
+      ],
+      "times": [
+        {"time":"06:16","ref":"4M18","description":"Doncaster Robert Rds Shed to Trafford Pk Euro Tml Gbrf"},
+        {"time":"07:16","ref":"6I06","description":"Leeds F.L.T. to Southampton M.C.T."},
+        {"time":"07:25","ref":"6I07","description":"Tees N.Y. to Burton Ot W Yd Maurice H"},
+        {"time":"07:59","ref":"5O13","description":"Doncaster West Yard to Eastleigh Works Gbrf"},
+        {"time":"08:25","ref":"6M85","description":"Thrislington Gbrf to Toton North Yard"},
+        {"time":"09:08","ref":"7X18","description":"Doncaster Up Decoy to Toton North Yard"},
+        {"time":"09:56","ref":"6M61","description":"Doncaster Down Decoy Gbrf to Ratcliffe Ps Gbrf"},
+        {"time":"11:26","ref":"6J27","description":"Barnetby to Chesterfield Down Sidings"},
+        {"time":"11:35","ref":"6X01","description":"Scunthorpe Trent T.C. to Eastleigh East Yard"},
+        {"time":"11:36","ref":"6O01","description":"Doncaster Up Decoy to Eastleigh East Yard"},
+        {"time":"11:58","ref":"6K11","description":"Doncaster Up Decoy to Toton North Yard"},
+        {"time":"12:36","ref":"0W56","description":"Belmont Down Yard to Toton T.M.D."},
+        {"time":"12:51","ref":"4M03","description":"Hexthorpe Yard (Gbrf) to Peak Forest Cemex Gbrf"},
+        {"time":"13:25","ref":"4V26","description":"Leeds F.L.T. to Southampton M.C.T."},
+        {"time":"13:36","ref":"0W65","description":"Belmont Down Yard to Toton T.M.D."},
+        {"time":"14:55","ref":"6E87","description":"Ratcliffe Ps Gbrf to Immingham H.I.T. (Gbrf)"},
+        {"time":"17:04","ref":"6K90","description":"Scunthorpe B.S.C.(Ent.C.) to Margam T.C."},
+        {"time":"18:21","ref":"6L90","description":"Masborough F.D. to Cardiff Tidal T.C."},
+        {"time":"19:16","ref":"6L93","description":"Leeds F.L.T. to Southampton M.C.T."},
+        {"time":"19:25","ref":"0X11","description":"Doncaster Robert Rds Shed to Derby R.T.C.(Network Rail)"},
+        {"time":"19:35","ref":"4M65","description":"Hedon Road Sidings to Trafford Pk Euro Tml Gbrf"},
+        {"time":"19:52","ref":"4O34","description":"Doncaster Iport Gbrf to Southampton W Docks (Gbrf)"},
+        {"time":"20:09","ref":"4W05","description":"Masborough F.D. to Soton W Docks Berth 109"},
+        {"time":"20:13","ref":"6M99","description":"Rylstone Tilcon (Gbrf) to Wellingborough Up Tc Gbrf"},
+        {"time":"20:31","ref":"4M74","description":"Immingham Mineral Quay Gbr to Hams Hall Gbrf"},
+        {"time":"21:51","ref":"4W02","description":"Scunthorpe B.S.C.(Ent.C.) to Margam T.C."},
+        {"time":"22:12","ref":"6M10","description":"Tees N.Y. to Margam T.C."},
+        {"time":"22:52","ref":"6M13","description":"Tees N.Y. to Margam T.C."}
+      ]
+    },
+    {
+      "ref":"6Y05",
+      "description":"Tunstead Sdgs to West Burton Ps (Fhh)",
+      "startSpeed":"80",
+      "maxSpeed":"121",
+      "mass":"76",
+      "maxBrake":"28",
+      "power":"425",
+      "increment":"4",
+      "events": [
+        "06:24;Snt;28-23 29-23",
+        "06:55;Fer;134-23"
+      ],
+      "times": [
+        "00:00","04:50"
+      ]
+    },
+    {
+      "ref":"1R50",
+      "description":"SHFF AVOIDING",
+      "startSpeed":80,
+      "dataTemplate":"C222/0_5",
+      "increment":1,
+      "events": [
+        "23:46;Snt;55-73 55-72",
+        "00:04;Fer;28-24"
+      ],
+      "times": [
+        {"time":"06:10","ref":"1R50","description":"Nottingham to Liverpool Lime Street","dataTemplate":"C158_2"},
+        {"time":"06:14","ref":"5C14","description":"Etches Park Sdgs to Sheffield"},
+        {"time":"07:00","ref":"1F00","description":"Kettering to Sheffield"},
+        {"time":"19:10","ref":"1F60","description":"St Pancras International to Sheffield"}
+      ]
+    },
+    {
+      "ref":"1C23",
+      "description":"Sheffiled to St Pancras International",
+      "dataTemplate":"C222/0_5",
+      "startSpeed":80,
+      "increment":1,
+      "events": [
+        "07:53;Snt;28-23 29-23",
+        "08:11;Fer;56-73"
+      ]
+    },
+    {
+      "ref":"2P05",
+      "description":"Sheffield to Retford",
+      "dataTemplate":"C158_2",
+      "increment":1,
+      "startSpeed":80,
+      "events": [
+        "06:12;Snt;28-23 29-23",
+        "06:24;06:25;Kiveton Park",
+        "06:32;06:33;Worksop",
+        "06:34;Fer;134-23"
+      ]
+    },
+    {
+      "ref":"1L33",
+      "description":"Leeds to Lincoln Central",
+      "dataTemplate":"C158_2",
+      "increment":1,
+      "startSpeed":80,
+      "events": [
+        "07:40;Snt;28-23 29-23",
+        "07:58;07:59;Worksop",
+        "08:00;Fer;134-23"
+      ]
+    },
+    {
+      "ref":"5C38",
+      "description":"Sheffield to Sheffield",
+      "dataTemplate":"C222/0_5",
+      "increment":1,
+      "startSpeed":80,
+      "events": [
+        "23:49;Snt;28-23 29-23",
+        "23:54;Darnall",
+        "23:55;cdt",
+        "00:00;Darnall",
+        "00:04;Fer;28-24"
+      ],
+      "times": [
+        {"time":"10:20","ref":"5C38"},
+        {"time":"13:20","ref":"5C56"},
+        {"time":"14:19","ref":"5C62"},
+        {"time":"15:20","ref":"5C40"},
+        {"time":"16:20","ref":"5C74"}
+      ]
+    }
+  ]
+}
