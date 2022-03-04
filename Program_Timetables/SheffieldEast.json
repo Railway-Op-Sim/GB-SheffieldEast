@@ -1,5 +1,5 @@
 {
-  "startTime":"06:21",
+  "startTime":"06:00",
   "services":[
     {
       "ref":"1L31",
@@ -174,9 +174,10 @@
         "00:17;Fer;56-73"
       ],
       "times": [
+        {"time":"06:16","ref":"4M18","description":"Doncaster Robert Rds Shed to Trafford Pk Euro Tml Gbrf"},
         {"time":"07:16","ref":"6I06","description":"Leeds F.L.T. to Southampton M.C.T."},
         {"time":"07:25","ref":"6I07","description":"Tees N.Y. to Burton Ot W Yd Maurice H"},
-        {"time":"07:55","ref":"5O13","description":"Doncaster West Yard to Eastleigh Works Gbrf"},
+        {"time":"07:59","ref":"5O13","description":"Doncaster West Yard to Eastleigh Works Gbrf"},
         {"time":"08:25","ref":"6M85","description":"Thrislington Gbrf to Toton North Yard"},
         {"time":"09:08","ref":"7X18","description":"Doncaster Up Decoy to Toton North Yard"},
         {"time":"09:56","ref":"6M61","description":"Doncaster Down Decoy Gbrf to Ratcliffe Ps Gbrf"},
@@ -218,6 +219,80 @@
       ],
       "times": [
         "00:00","04:50"
+      ]
+    },
+    {
+      "ref":"1R50",
+      "description":"SHFF AVOIDING",
+      "startSpeed":80,
+      "dataTemplate":"C222/0_5",
+      "increment":1,
+      "events": [
+        "23:46;Snt;55-73 55-72",
+        "00:04;Fer;28-24"
+      ],
+      "times": [
+        {"time":"06:10","ref":"1R50","description":"Nottingham to Liverpool Lime Street","dataTemplate":"C158_2"},
+        {"time":"06:14","ref":"5C14","description":"Etches Park Sdgs to Sheffield"},
+        {"time":"07:00","ref":"1F00","description":"Kettering to Sheffield"},
+        {"time":"19:10","ref":"1F60","description":"St Pancras International to Sheffield"}
+      ]
+    },
+    {
+      "ref":"1C23",
+      "description":"Sheffiled to St Pancras International",
+      "dataTemplate":"C222/0_5",
+      "startSpeed":80,
+      "increment":1,
+      "events": [
+        "07:53;Snt;28-23 29-23",
+        "08:11;Fer;56-73"
+      ]
+    },
+    {
+      "ref":"2P05",
+      "description":"Sheffield to Retford",
+      "dataTemplate":"C158_2",
+      "increment":1,
+      "startSpeed":80,
+      "events": [
+        "06:12;Snt;28-23 29-23",
+        "06:24;06:25;Kiveton Park",
+        "06:32;06:33;Worksop",
+        "06:34;Fer;134-23"
+      ]
+    },
+    {
+      "ref":"1L33",
+      "description":"Leeds to Lincoln Central",
+      "dataTemplate":"C158_2",
+      "increment":1,
+      "startSpeed":80,
+      "events": [
+        "07:40;Snt;28-23 29-23",
+        "07:58;07:59;Worksop",
+        "08:00;Fer;134-23"
+      ]
+    },
+    {
+      "ref":"5C38",
+      "description":"Sheffield to Sheffield",
+      "dataTemplate":"C222/0_5",
+      "increment":1,
+      "startSpeed":80,
+      "events": [
+        "23:49;Snt;28-23 29-23",
+        "23:54;Darnall",
+        "23:55;cdt",
+        "00:00;Darnall",
+        "00:04;Fer;28-24"
+      ],
+      "times": [
+        {"time":"10:20","ref":"5C38"},
+        {"time":"13:20","ref":"5C56"},
+        {"time":"14:19","ref":"5C62"},
+        {"time":"15:20","ref":"5C40"},
+        {"time":"16:20","ref":"5C74"}
       ]
     }
   ]
