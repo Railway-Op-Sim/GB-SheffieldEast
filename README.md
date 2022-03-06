@@ -18,8 +18,5 @@ A small route covering the line from Sheffield to Worksop, including branches to
 
 ## Data Sources
 
-- [TRAKSY.UK](https://traksy.uk/live)
 - [OpenStreetMap](https://www.openstreetmap.org/#map=11/53.3522/-1.2476)
 - [Meurisse](https://map.meurisse.org/)
-
-Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com.
